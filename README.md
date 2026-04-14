@@ -58,23 +58,3 @@ signup3
 bank
 Make sure column names match those used in the Java files.
 
-
-▶️ How to Run the Project
-Clone the repository:
-
-git clone https://github.com/SujalBhosale1/Bank-Management-System.git
-
-Open the project in IntelliJ IDEA
-Add MySQL Connector JAR to project libraries
-Configure database credentials in Connector.java
-Run Login.java
-
-🔐 Default Credentials
-Use the signup flow to create a new account.
-
-
-👨‍💻 Author
-Sujal Bhosale
-Computer Science & Business Systems Student
-📍 Pune, India
-🔗 GitHub: https://github.com/SujalBhosale1
